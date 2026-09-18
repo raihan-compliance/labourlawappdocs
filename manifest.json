@@ -30,14 +30,6 @@
       "name": "সকল-গেজেট",
       "path": "documents/সকল-গেজেট",
       "type": "dir"
-    },
-    {
-      "name": "রিক্স-অ্যাসেসমেন্ট",
-      "path": "documents/রিক্স-অ্যাসেসমেন্ট",
-      "type": "file",
-      "size": 1,
-      "sha": "61200aa8ef30",
-      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@main/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8-%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F"
     }
   ]
 }

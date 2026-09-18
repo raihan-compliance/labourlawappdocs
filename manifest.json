@@ -1,0 +1,58 @@
+{
+  "documents/রিক্স অ্যাসেসমেন্ট": [
+    {
+      "name": "5. Risk Assessment All Supplier.docx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/5. Risk Assessment All Supplier.docx",
+      "type": "file",
+      "size": 89205,
+      "sha": "a737d18729cd",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@main/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/5.%20Risk%20Assessment%20All%20Supplier.docx"
+    },
+    {
+      "name": "HIRA Mastrade int.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/HIRA Mastrade int.xlsx",
+      "type": "file",
+      "size": 6922723,
+      "sha": "24ed9fb3bcff",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@main/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/HIRA%20Mastrade%20int.xlsx"
+    }
+  ],
+  "documents/সকল-গেজেট": [
+    {
+      "name": "garments gazzete.pdf",
+      "path": "documents/সকল-গেজেট/garments gazzete.pdf",
+      "type": "file",
+      "size": 176936,
+      "sha": "29765050257d",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@main/documents/%E0%A6%B8%E0%A6%95%E0%A6%B2-%E0%A6%97%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%9F/garments%20gazzete.pdf"
+    },
+    {
+      "name": "tenary gazzet.pdf",
+      "path": "documents/সকল-গেজেট/tenary gazzet.pdf",
+      "type": "file",
+      "size": 1617787,
+      "sha": "6ff35725fc53",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@main/documents/%E0%A6%B8%E0%A6%95%E0%A6%B2-%E0%A6%97%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%9F/tenary%20gazzet.pdf"
+    },
+    {
+      "name": "textile gazzete.pdf",
+      "path": "documents/সকল-গেজেট/textile gazzete.pdf",
+      "type": "file",
+      "size": 2,
+      "sha": "33a408d7ac2e",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@main/documents/%E0%A6%B8%E0%A6%95%E0%A6%B2-%E0%A6%97%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%9F/textile%20gazzete.pdf"
+    }
+  ],
+  "documents": [
+    {
+      "name": "রিক্স অ্যাসেসমেন্ট",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট",
+      "type": "dir"
+    },
+    {
+      "name": "সকল-গেজেট",
+      "path": "documents/সকল-গেজেট",
+      "type": "dir"
+    }
+  ]
+}

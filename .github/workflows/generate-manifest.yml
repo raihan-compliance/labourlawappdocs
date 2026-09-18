@@ -1,0 +1,38 @@
+name: Generate manifest.json
+
+# documents/ ফোল্ডারে যেকোনো push (নতুন PDF/ফোল্ডার আপলোড) হলেই অটোমেটিক
+# চলে এবং manifest.json রিজেনারেট করে কমিট করে দেয়। ম্যানুয়ালি চালাতে
+# চাইলে GitHub-এর "Actions" ট্যাব থেকে "Run workflow" (workflow_dispatch)
+# দিয়েও চালানো যায়।
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'documents/**'
+  workflow_dispatch: {}
+
+# manifest.json কমিট করার জন্য write পারমিশন লাগবে
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate manifest.json
+        run: node scripts/generate-manifest.js
+
+      - name: Commit manifest.json (যদি বদলায়)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add manifest.json
+          if git diff --staged --quiet; then
+            echo "কোনো পরিবর্তন নেই — কমিট বাদ দেওয়া হলো।"
+          else
+            git commit -m "chore: auto-update manifest.json"
+            git push
+          fi

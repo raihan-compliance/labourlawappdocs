@@ -9,6 +9,7 @@ on:
     branches: [main]
     paths:
       - 'documents/**'
+      - 'scripts/**'   # ⭐ NEW: স্ক্রিপ্ট বদলালেও manifest নতুন করে বানাবে
   workflow_dispatch: {}
 
 # manifest.json কমিট করার জন্য write পারমিশন লাগবে
@@ -21,6 +22,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # ⭐ NEW: পুরো git history — নাহলে প্রতি ফাইলের "শেষ commit" পাওয়া যায় না
 
       - name: Generate manifest.json
         run: node scripts/generate-manifest.js
@@ -34,5 +37,6 @@ jobs:
             echo "কোনো পরিবর্তন নেই — কমিট বাদ দেওয়া হলো।"
           else
             git commit -m "chore: auto-update manifest.json"
+            git pull --rebase origin main   # ⭐ NEW: ইতিমধ্যে নতুন push এসে গেলে push ফেইল হওয়া এড়াতে
             git push
           fi

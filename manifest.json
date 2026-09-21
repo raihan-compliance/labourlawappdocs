@@ -1,13 +1,15 @@
 {
-  "documents/সকল-গেজেট": [
+  "documents/নিম্নতম-মজুরি-গেজেট": [
     {
       "name": "01_গার্মেন্টস (২০ ডিসেম্বর ২০২৩).pdf",
-      "path": "documents/সকল-গেজেট/01_গার্মেন্টস (২০ ডিসেম্বর ২০২৩).pdf",
+      "path": "documents/নিম্নতম-মজুরি-গেজেট/01_গার্মেন্টস (২০ ডিসেম্বর ২০২৩).pdf",
       "type": "file",
       "size": 176936,
-      "sha": "bf23c596dd57",
-      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@34488c92e29cdc81477422b0253d97b31ad94613/documents/%E0%A6%B8%E0%A6%95%E0%A6%B2-%E0%A6%97%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%9F/01_%E0%A6%97%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%B8%20(%E0%A7%A8%E0%A7%A6%20%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0%20%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A9).pdf"
-    },
+      "sha": "8fcabb0405b9",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@8a808e0bfa755b48234b3602d4def2f19e8c2a07/documents/%E0%A6%A8%E0%A6%BF%E0%A6%AE%E0%A7%8D%E0%A6%A8%E0%A6%A4%E0%A6%AE-%E0%A6%AE%E0%A6%9C%E0%A7%81%E0%A6%B0%E0%A6%BF-%E0%A6%97%E0%A7%87%E0%A6%9C%E0%A7%87%E0%A6%9F/01_%E0%A6%97%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A6%B8%20(%E0%A7%A8%E0%A7%A6%20%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0%20%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%A9).pdf"
+    }
+  ],
+  "documents/সকল-গেজেট": [
     {
       "name": "02_কটন টেক্সটাইল (০৪ এপ্রিল ২০২৪).pdf",
       "path": "documents/সকল-গেজেট/02_কটন টেক্সটাইল (০৪ এপ্রিল ২০২৪).pdf",
@@ -362,6 +364,11 @@
     }
   ],
   "documents": [
+    {
+      "name": "নিম্নতম-মজুরি-গেজেট",
+      "path": "documents/নিম্নতম-মজুরি-গেজেট",
+      "type": "dir"
+    },
     {
       "name": "সকল-গেজেট",
       "path": "documents/সকল-গেজেট",

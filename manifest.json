@@ -920,6 +920,560 @@
       "type": "dir"
     }
   ],
+  "documents/রিক্স অ্যাসেসমেন্ট": [
+    {
+      "name": "0 Risk_Assessment_Team_Example.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/0 Risk_Assessment_Team_Example.xlsx",
+      "type": "file",
+      "size": 10294,
+      "sha": "5b163f2ad46a",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/0%20Risk_Assessment_Team_Example.xlsx"
+    },
+    {
+      "name": "1 Cutting.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/1 Cutting.xlsx",
+      "type": "file",
+      "size": 25378,
+      "sha": "f2fd3f50ea14",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/1%20Cutting.xlsx"
+    },
+    {
+      "name": "10 Maintanance Room.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/10 Maintanance Room.xlsx",
+      "type": "file",
+      "size": 20853,
+      "sha": "ee65b9e5ef01",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/10%20Maintanance%20Room.xlsx"
+    },
+    {
+      "name": "11 Finishing Section.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/11 Finishing Section.xlsx",
+      "type": "file",
+      "size": 21973,
+      "sha": "4fbe08133d58",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/11%20Finishing%20Section.xlsx"
+    },
+    {
+      "name": "12 Needle Distribution Room.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/12 Needle Distribution Room.xlsx",
+      "type": "file",
+      "size": 21944,
+      "sha": "19bec7d8af15",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/12%20Needle%20Distribution%20Room.xlsx"
+    },
+    {
+      "name": "13 ChildCare Room.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/13 ChildCare Room.xlsx",
+      "type": "file",
+      "size": 21657,
+      "sha": "4e31d012c9cc",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/13%20ChildCare%20Room.xlsx"
+    },
+    {
+      "name": "14 Canteen.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/14 Canteen.xlsx",
+      "type": "file",
+      "size": 21493,
+      "sha": "fb0f14cf7286",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/14%20Canteen.xlsx"
+    },
+    {
+      "name": "15 Toilet.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/15 Toilet.xlsx",
+      "type": "file",
+      "size": 22300,
+      "sha": "078920386943",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/15%20Toilet.xlsx"
+    },
+    {
+      "name": "16 Dining Room.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/16 Dining Room.xlsx",
+      "type": "file",
+      "size": 22522,
+      "sha": "75eb50c32eca",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/16%20Dining%20Room.xlsx"
+    },
+    {
+      "name": "17 Medical ROOM.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/17 Medical ROOM.xlsx",
+      "type": "file",
+      "size": 19000,
+      "sha": "8979aa5ff9a4",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/17%20Medical%20ROOM.xlsx"
+    },
+    {
+      "name": "18 Diseases.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/18 Diseases.xlsx",
+      "type": "file",
+      "size": 26490,
+      "sha": "231e06e85c28",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/18%20Diseases.xlsx"
+    },
+    {
+      "name": "19 Pregnant Workers.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/19 Pregnant Workers.xlsx",
+      "type": "file",
+      "size": 21095,
+      "sha": "8e65744e5309",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/19%20Pregnant%20Workers.xlsx"
+    },
+    {
+      "name": "2 Sewing.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/2 Sewing.xlsx",
+      "type": "file",
+      "size": 23767,
+      "sha": "c5307f7eae9e",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/2%20Sewing.xlsx"
+    },
+    {
+      "name": "20 New Mother.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/20 New Mother.xlsx",
+      "type": "file",
+      "size": 21488,
+      "sha": "c10c5d55126d",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/20%20New%20Mother.xlsx"
+    },
+    {
+      "name": "21 Environment.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/21 Environment.xlsx",
+      "type": "file",
+      "size": 26473,
+      "sha": "91f7b57ae986",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/21%20Environment.xlsx"
+    },
+    {
+      "name": "22 Generator Room.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/22 Generator Room.xlsx",
+      "type": "file",
+      "size": 22144,
+      "sha": "dcd7a1919ed7",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/22%20Generator%20Room.xlsx"
+    },
+    {
+      "name": "23 Boiler Room.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/23 Boiler Room.xlsx",
+      "type": "file",
+      "size": 22362,
+      "sha": "99521a605b12",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/23%20Boiler%20Room.xlsx"
+    },
+    {
+      "name": "24 Sub Station.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/24 Sub Station.xlsx",
+      "type": "file",
+      "size": 21196,
+      "sha": "311ee9a4bb94",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/24%20Sub%20Station.xlsx"
+    },
+    {
+      "name": "25 Fire Pump Room.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/25 Fire Pump Room.xlsx",
+      "type": "file",
+      "size": 20694,
+      "sha": "63658f59f516",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/25%20Fire%20Pump%20Room.xlsx"
+    },
+    {
+      "name": "26 Loading Unloading.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/26 Loading Unloading.xlsx",
+      "type": "file",
+      "size": 20718,
+      "sha": "3514a96c3b72",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/26%20Loading%20Unloading.xlsx"
+    },
+    {
+      "name": "27 Finished Ware house.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/27 Finished Ware house.xlsx",
+      "type": "file",
+      "size": 22322,
+      "sha": "c529ed0a24c7",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/27%20Finished%20Ware%20house.xlsx"
+    },
+    {
+      "name": "28 Fabric Ware house.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/28 Fabric Ware house.xlsx",
+      "type": "file",
+      "size": 20976,
+      "sha": "01362a1db282",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/28%20Fabric%20Ware%20house.xlsx"
+    },
+    {
+      "name": "29 Lift.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/29 Lift.xlsx",
+      "type": "file",
+      "size": 21609,
+      "sha": "22b829914327",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/29%20Lift.xlsx"
+    },
+    {
+      "name": "3 Snap Button Area.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/3 Snap Button Area.xlsx",
+      "type": "file",
+      "size": 20152,
+      "sha": "26770e3ae035",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/3%20Snap%20Button%20Area.xlsx"
+    },
+    {
+      "name": "30 Office Room.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/30 Office Room.xlsx",
+      "type": "file",
+      "size": 21697,
+      "sha": "5ad94ced8dd4",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/30%20Office%20Room.xlsx"
+    },
+    {
+      "name": "31 Wastage Room.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/31 Wastage Room.xlsx",
+      "type": "file",
+      "size": 20796,
+      "sha": "0aa22d1ddfe9",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/31%20Wastage%20Room.xlsx"
+    },
+    {
+      "name": "32 Assemblie Area.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/32 Assemblie Area.xlsx",
+      "type": "file",
+      "size": 20537,
+      "sha": "706940a85102",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/32%20Assemblie%20Area.xlsx"
+    },
+    {
+      "name": "33 Main Store.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/33 Main Store.xlsx",
+      "type": "file",
+      "size": 22649,
+      "sha": "2598f131e316",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/33%20Main%20Store.xlsx"
+    },
+    {
+      "name": "34 MDB SDB.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/34 MDB SDB.xlsx",
+      "type": "file",
+      "size": 21926,
+      "sha": "97e817839a0f",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/34%20MDB%20SDB.xlsx"
+    },
+    {
+      "name": "35 Thread Sucking Room.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/35 Thread Sucking Room.xlsx",
+      "type": "file",
+      "size": 19290,
+      "sha": "dbc22c37e730",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/35%20Thread%20Sucking%20Room.xlsx"
+    },
+    {
+      "name": "36 Fire Safety.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/36 Fire Safety.xlsx",
+      "type": "file",
+      "size": 21914,
+      "sha": "d408385ccd1d",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/36%20Fire%20Safety.xlsx"
+    },
+    {
+      "name": "37 COVID-19.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/37 COVID-19.xlsx",
+      "type": "file",
+      "size": 23563,
+      "sha": "bff88f2af5b6",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/37%20COVID-19.xlsx"
+    },
+    {
+      "name": "38 Disable persons.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/38 Disable persons.xlsx",
+      "type": "file",
+      "size": 20687,
+      "sha": "e480b54e4044",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/38%20Disable%20persons.xlsx"
+    },
+    {
+      "name": "39 Security Room.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/39 Security Room.xlsx",
+      "type": "file",
+      "size": 21222,
+      "sha": "179e2a10a260",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/39%20Security%20Room.xlsx"
+    },
+    {
+      "name": "4 Sample.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/4 Sample.xlsx",
+      "type": "file",
+      "size": 24788,
+      "sha": "a0eac1495150",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/4%20Sample.xlsx"
+    },
+    {
+      "name": "40 Idle machine.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/40 Idle machine.xlsx",
+      "type": "file",
+      "size": 20577,
+      "sha": "b8f4534be812",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/40%20Idle%20machine.xlsx"
+    },
+    {
+      "name": "41 Belt joint.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/41 Belt joint.xlsx",
+      "type": "file",
+      "size": 21699,
+      "sha": "498e5ea0dd3e",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/41%20Belt%20joint.xlsx"
+    },
+    {
+      "name": "42 label cutter.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/42 label cutter.xlsx",
+      "type": "file",
+      "size": 18687,
+      "sha": "83092c8edd4a",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/42%20label%20cutter.xlsx"
+    },
+    {
+      "name": "43 all section.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/43 all section.xlsx",
+      "type": "file",
+      "size": 18360,
+      "sha": "73ba315fec1a",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/43%20all%20section.xlsx"
+    },
+    {
+      "name": "44 Maintanance.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/44 Maintanance.xlsx",
+      "type": "file",
+      "size": 21837,
+      "sha": "dcfcfd4935f7",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/44%20Maintanance.xlsx"
+    },
+    {
+      "name": "45 Chemicale room.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/45 Chemicale room.xlsx",
+      "type": "file",
+      "size": 18306,
+      "sha": "41ff16a59818",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/45%20Chemicale%20room.xlsx"
+    },
+    {
+      "name": "46 Disable.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/46 Disable.xlsx",
+      "type": "file",
+      "size": 20859,
+      "sha": "968965b4575e",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/46%20Disable.xlsx"
+    },
+    {
+      "name": "47 Hard & Soft.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/47 Hard & Soft.xlsx",
+      "type": "file",
+      "size": 20629,
+      "sha": "98be76d05571",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/47%20Hard%20%26%20Soft.xlsx"
+    },
+    {
+      "name": "48 Yarn Dyeing.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/48 Yarn Dyeing.xlsx",
+      "type": "file",
+      "size": 21679,
+      "sha": "cea68ac2e964",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/48%20Yarn%20Dyeing.xlsx"
+    },
+    {
+      "name": "49 printing.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/49 printing.xlsx",
+      "type": "file",
+      "size": 20690,
+      "sha": "d80c66dd4570",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/49%20printing.xlsx"
+    },
+    {
+      "name": "5 Anti Corruption.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/5 Anti Corruption.xlsx",
+      "type": "file",
+      "size": 21746,
+      "sha": "680f856513d8",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/5%20Anti%20Corruption.xlsx"
+    },
+    {
+      "name": "50 Embrodiary.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/50 Embrodiary.xlsx",
+      "type": "file",
+      "size": 19106,
+      "sha": "beac4189ef02",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/50%20Embrodiary.xlsx"
+    },
+    {
+      "name": "51 heat_stress_risk_assessment_lantabur.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/51 heat_stress_risk_assessment_lantabur.xlsx",
+      "type": "file",
+      "size": 15321,
+      "sha": "148ea0338e77",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/51%20heat_stress_risk_assessment_lantabur.xlsx"
+    },
+    {
+      "name": "52 washing.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/52 washing.xlsx",
+      "type": "file",
+      "size": 20737,
+      "sha": "d40da0fe2c00",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/52%20washing.xlsx"
+    },
+    {
+      "name": "53 compressor.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/53 compressor.xlsx",
+      "type": "file",
+      "size": 20360,
+      "sha": "ca869bc3f7b3",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/53%20compressor.xlsx"
+    },
+    {
+      "name": "54 chemical lab.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/54 chemical lab.xlsx",
+      "type": "file",
+      "size": 20417,
+      "sha": "2453e3c17ce9",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/54%20chemical%20lab.xlsx"
+    },
+    {
+      "name": "55 physical lab.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/55 physical lab.xlsx",
+      "type": "file",
+      "size": 20423,
+      "sha": "b30e5a3f14a8",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/55%20physical%20lab.xlsx"
+    },
+    {
+      "name": "56 thermal oil heater.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/56 thermal oil heater.xlsx",
+      "type": "file",
+      "size": 21675,
+      "sha": "650506d75bab",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/56%20thermal%20oil%20heater.xlsx"
+    },
+    {
+      "name": "57 workshop.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/57 workshop.xlsx",
+      "type": "file",
+      "size": 20603,
+      "sha": "be1232d57aee",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/57%20workshop.xlsx"
+    },
+    {
+      "name": "58 hoist.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/58 hoist.xlsx",
+      "type": "file",
+      "size": 20543,
+      "sha": "f9b0bdcc85f3",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/58%20hoist.xlsx"
+    },
+    {
+      "name": "59 compactor machine.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/59 compactor machine.xlsx",
+      "type": "file",
+      "size": 21686,
+      "sha": "a9b9c686111d",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/59%20compactor%20machine.xlsx"
+    },
+    {
+      "name": "6 Heat Seal Section.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/6 Heat Seal Section.xlsx",
+      "type": "file",
+      "size": 20818,
+      "sha": "34b31b83aeb3",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/6%20Heat%20Seal%20Section.xlsx"
+    },
+    {
+      "name": "60 Slitting Machine.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/60 Slitting Machine.xlsx",
+      "type": "file",
+      "size": 21676,
+      "sha": "1e395629a9be",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/60%20Slitting%20Machine.xlsx"
+    },
+    {
+      "name": "61 Stenter Machine.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/61 Stenter Machine.xlsx",
+      "type": "file",
+      "size": 21684,
+      "sha": "37985f24af26",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/61%20Stenter%20Machine.xlsx"
+    },
+    {
+      "name": "62 Tumble Dryer.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/62 Tumble Dryer.xlsx",
+      "type": "file",
+      "size": 21691,
+      "sha": "f5522155c361",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/62%20Tumble%20Dryer.xlsx"
+    },
+    {
+      "name": "63 Etp.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/63 Etp.xlsx",
+      "type": "file",
+      "size": 20827,
+      "sha": "007a307694de",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/63%20Etp.xlsx"
+    },
+    {
+      "name": "64 Wtp.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/64 Wtp.xlsx",
+      "type": "file",
+      "size": 20633,
+      "sha": "5e9a2d13c38f",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/64%20Wtp.xlsx"
+    },
+    {
+      "name": "65 Risk Assessment_Mental health.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/65 Risk Assessment_Mental health.xlsx",
+      "type": "file",
+      "size": 15904,
+      "sha": "d946b5078d7b",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/65%20Risk%20Assessment_Mental%20health.xlsx"
+    },
+    {
+      "name": "66 Risk Assessment_Human Rights.ktl.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/66 Risk Assessment_Human Rights.ktl.xlsx",
+      "type": "file",
+      "size": 16215,
+      "sha": "15af6a1ef25e",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/66%20Risk%20Assessment_Human%20Rights.ktl.xlsx"
+    },
+    {
+      "name": "67 Risk_Assessment_Supplier_Sample.docx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/67 Risk_Assessment_Supplier_Sample.docx",
+      "type": "file",
+      "size": 79504,
+      "sha": "18994b97f0ed",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/67%20Risk_Assessment_Supplier_Sample.docx"
+    },
+    {
+      "name": "68 Earthquake Risk Assessment.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/68 Earthquake Risk Assessment.xlsx",
+      "type": "file",
+      "size": 13634,
+      "sha": "55cb2e42869b",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/68%20Earthquake%20Risk%20Assessment.xlsx"
+    },
+    {
+      "name": "7 Packing Section.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/7 Packing Section.xlsx",
+      "type": "file",
+      "size": 20966,
+      "sha": "b20a55cd9304",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/7%20Packing%20Section.xlsx"
+    },
+    {
+      "name": "8 Iron.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/8 Iron.xlsx",
+      "type": "file",
+      "size": 21256,
+      "sha": "91521aa9f253",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/8%20Iron.xlsx"
+    },
+    {
+      "name": "9 Spot Removing Room.xlsx",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট/9 Spot Removing Room.xlsx",
+      "type": "file",
+      "size": 21087,
+      "sha": "9d229d9f27bf",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/9%20Spot%20Removing%20Room.xlsx"
+    }
+  ],
   "documents": [
     {
       "name": "অন্যান্য আইন ও গাইডলাইন",
@@ -934,6 +1488,11 @@
     {
       "name": "নিরাপন চেকলিস্ট",
       "path": "documents/নিরাপন চেকলিস্ট",
+      "type": "dir"
+    },
+    {
+      "name": "রিক্স অ্যাসেসমেন্ট",
+      "path": "documents/রিক্স অ্যাসেসমেন্ট",
       "type": "dir"
     }
   ]

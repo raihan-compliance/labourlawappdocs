@@ -1505,6 +1505,16 @@
       "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@3056b62d4c286999dbfb3b3617f7ed75da37b5ff/documents/%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B8%20%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%87%E0%A6%B8%E0%A6%AE%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F/9%20Spot%20Removing%20Room.xlsx"
     }
   ],
+  "documents/শ্রম বিধিমালার সকল ফর্ম": [
+    {
+      "name": "README.md",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/README.md",
+      "type": "file",
+      "size": 66,
+      "sha": "8df092c76ee3",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@bd365cb78c725c8489acfc87c3d44b92f0ba42aa/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/README.md"
+    }
+  ],
   "documents": [
     {
       "name": "অন্যান্য আইন ও গাইডলাইন",
@@ -1524,6 +1534,11 @@
     {
       "name": "রিক্স অ্যাসেসমেন্ট",
       "path": "documents/রিক্স অ্যাসেসমেন্ট",
+      "type": "dir"
+    },
+    {
+      "name": "শ্রম বিধিমালার সকল ফর্ম",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম",
       "type": "dir"
     }
   ]

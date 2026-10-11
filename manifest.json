@@ -1507,6 +1507,286 @@
   ],
   "documents/শ্রম বিধিমালার সকল ফর্ম": [
     {
+      "name": "001_ফরম-১.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/001_ফরম-১.pdf",
+      "type": "file",
+      "size": 163349,
+      "sha": "b1a58e8e0d5c",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/001_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A7.pdf"
+    },
+    {
+      "name": "002_ফরম-২.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/002_ফরম-২.pdf",
+      "type": "file",
+      "size": 122037,
+      "sha": "1af5a89d3a65",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/002_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A8.pdf"
+    },
+    {
+      "name": "003_ফরম-২(ক).pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/003_ফরম-২(ক).pdf",
+      "type": "file",
+      "size": 107184,
+      "sha": "0fd3945d10ab",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/003_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A8(%E0%A6%95).pdf"
+    },
+    {
+      "name": "004_ফরম-৩.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/004_ফরম-৩.pdf",
+      "type": "file",
+      "size": 84809,
+      "sha": "d1f2dac3bc7f",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/004_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A9.pdf"
+    },
+    {
+      "name": "005_ফরম-৩(ক).pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/005_ফরম-৩(ক).pdf",
+      "type": "file",
+      "size": 73974,
+      "sha": "61d2d89c58b2",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/005_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A9(%E0%A6%95).pdf"
+    },
+    {
+      "name": "006_ফরম-৪.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/006_ফরম-৪.pdf",
+      "type": "file",
+      "size": 113626,
+      "sha": "90194ecc7cd6",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/006_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%AA.pdf"
+    },
+    {
+      "name": "007_ফরম-৫.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/007_ফরম-৫.pdf",
+      "type": "file",
+      "size": 106749,
+      "sha": "78154c50a732",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/007_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%AB.pdf"
+    },
+    {
+      "name": "008_ফরম-৬.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/008_ফরম-৬.pdf",
+      "type": "file",
+      "size": 84472,
+      "sha": "5d1637c3d7ae",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/008_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%AC.pdf"
+    },
+    {
+      "name": "009_ফরম-৬(ক).pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/009_ফরম-৬(ক).pdf",
+      "type": "file",
+      "size": 107424,
+      "sha": "250aafafee34",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/009_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%AC(%E0%A6%95).pdf"
+    },
+    {
+      "name": "010_ফরম-৭.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/010_ফরম-৭.pdf",
+      "type": "file",
+      "size": 255177,
+      "sha": "7ef6fc1a19cb",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/010_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%AD.pdf"
+    },
+    {
+      "name": "011_ফরম-৭(ক).pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/011_ফরম-৭(ক).pdf",
+      "type": "file",
+      "size": 70632,
+      "sha": "087453a0b7ed",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/011_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%AD(%E0%A6%95).pdf"
+    },
+    {
+      "name": "012_ফরম-৮.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/012_ফরম-৮.pdf",
+      "type": "file",
+      "size": 28357,
+      "sha": "1a3ccd6a1a7a",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/012_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%AE.pdf"
+    },
+    {
+      "name": "013_ফরম-৯.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/013_ফরম-৯.pdf",
+      "type": "file",
+      "size": 147798,
+      "sha": "2dc7627c8fea",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/013_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%AF.pdf"
+    },
+    {
+      "name": "014_ফরম-১০.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/014_ফরম-১০.pdf",
+      "type": "file",
+      "size": 108464,
+      "sha": "2659dc54fad2",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/014_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A7%E0%A7%A6.pdf"
+    },
+    {
+      "name": "015_ফরম-১০(ক).pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/015_ফরম-১০(ক).pdf",
+      "type": "file",
+      "size": 129221,
+      "sha": "2fea72a07777",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/015_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A7%E0%A7%A6(%E0%A6%95).pdf"
+    },
+    {
+      "name": "016_ফরম-১১.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/016_ফরম-১১.pdf",
+      "type": "file",
+      "size": 108064,
+      "sha": "3adde1d9cbc1",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/016_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A7%E0%A7%A7.pdf"
+    },
+    {
+      "name": "017_ফরম-১২.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/017_ফরম-১২.pdf",
+      "type": "file",
+      "size": 109622,
+      "sha": "94fdf0a84df7",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/017_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A7%E0%A7%A8.pdf"
+    },
+    {
+      "name": "018_ফরম-১৩.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/018_ফরম-১৩.pdf",
+      "type": "file",
+      "size": 93242,
+      "sha": "98bbdae2d4c1",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/018_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A7%E0%A7%A9.pdf"
+    },
+    {
+      "name": "019_ফরম-১৪.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/019_ফরম-১৪.pdf",
+      "type": "file",
+      "size": 113179,
+      "sha": "f282f9a3711f",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/019_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A7%E0%A7%AA.pdf"
+    },
+    {
+      "name": "020_ফরম-১৫.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/020_ফরম-১৫.pdf",
+      "type": "file",
+      "size": 140414,
+      "sha": "2413a8c159b7",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/020_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A7%E0%A7%AB.pdf"
+    },
+    {
+      "name": "021_ফরম-১৫(ক).pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/021_ফরম-১৫(ক).pdf",
+      "type": "file",
+      "size": 117234,
+      "sha": "571f75f12ba4",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/021_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A7%E0%A7%AB(%E0%A6%95).pdf"
+    },
+    {
+      "name": "022_ফরম-১৬.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/022_ফরম-১৬.pdf",
+      "type": "file",
+      "size": 110254,
+      "sha": "b35b1e5925df",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/022_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A7%E0%A7%AC.pdf"
+    },
+    {
+      "name": "023_ফরম-১৭.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/023_ফরম-১৭.pdf",
+      "type": "file",
+      "size": 96894,
+      "sha": "1cb2e009d4d4",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/023_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A7%E0%A7%AD.pdf"
+    },
+    {
+      "name": "024_ফরম-১৮.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/024_ফরম-১৮.pdf",
+      "type": "file",
+      "size": 101532,
+      "sha": "b9b7a944d3bc",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/024_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A7%E0%A7%AE.pdf"
+    },
+    {
+      "name": "025_ফরম-১৮(ক).pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/025_ফরম-১৮(ক).pdf",
+      "type": "file",
+      "size": 98229,
+      "sha": "1711f67ba05c",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/025_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A7%E0%A7%AE(%E0%A6%95).pdf"
+    },
+    {
+      "name": "026_ফরম-১৯.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/026_ফরম-১৯.pdf",
+      "type": "file",
+      "size": 154278,
+      "sha": "8d8229fb6e3b",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/026_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A7%E0%A7%AF.pdf"
+    },
+    {
+      "name": "027_ফরম-২০.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/027_ফরম-২০.pdf",
+      "type": "file",
+      "size": 120246,
+      "sha": "9a06b8cbabac",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/027_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A8%E0%A7%A6.pdf"
+    },
+    {
+      "name": "028_ফরম-২১.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/028_ফরম-২১.pdf",
+      "type": "file",
+      "size": 165919,
+      "sha": "5d84e102b825",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/028_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A8%E0%A7%A7.pdf"
+    },
+    {
+      "name": "029_ফরম-২২.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/029_ফরম-২২.pdf",
+      "type": "file",
+      "size": 141359,
+      "sha": "7e3c0d01c929",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/029_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A8%E0%A7%A8.pdf"
+    },
+    {
+      "name": "030_ফরম-২২(ক).pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/030_ফরম-২২(ক).pdf",
+      "type": "file",
+      "size": 135808,
+      "sha": "c6cd4458f5a2",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/030_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A8%E0%A7%A8(%E0%A6%95).pdf"
+    },
+    {
+      "name": "031_ফরম-২৩.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/031_ফরম-২৩.pdf",
+      "type": "file",
+      "size": 140959,
+      "sha": "5dffcacd1a59",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/031_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A8%E0%A7%A9.pdf"
+    },
+    {
+      "name": "032_ফরম-২৪.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/032_ফরম-২৪.pdf",
+      "type": "file",
+      "size": 181470,
+      "sha": "65a64e063228",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/032_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A8%E0%A7%AA.pdf"
+    },
+    {
+      "name": "033_ফরম-২৫.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/033_ফরম-২৫.pdf",
+      "type": "file",
+      "size": 109185,
+      "sha": "39d76ad99b35",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/033_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A8%E0%A7%AB.pdf"
+    },
+    {
+      "name": "034_ফরম-২৫(ক).pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/034_ফরম-২৫(ক).pdf",
+      "type": "file",
+      "size": 129622,
+      "sha": "49ca1de4ac59",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/034_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A8%E0%A7%AB(%E0%A6%95).pdf"
+    },
+    {
+      "name": "035_ফরম-২৬.pdf",
+      "path": "documents/শ্রম বিধিমালার সকল ফর্ম/035_ফরম-২৬.pdf",
+      "type": "file",
+      "size": 148683,
+      "sha": "031b69943f27",
+      "download_url": "https://cdn.jsdelivr.net/gh/raihan-compliance/labourlawappdocs@f2d1c2ffe08742a9402f1043ec8760d9e7c2d5ed/documents/%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%20%E0%A6%AC%E0%A6%BF%E0%A6%A7%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%B0%20%E0%A6%B8%E0%A6%95%E0%A6%B2%20%E0%A6%AB%E0%A6%B0%E0%A7%8D%E0%A6%AE/035_%E0%A6%AB%E0%A6%B0%E0%A6%AE-%E0%A7%A8%E0%A7%AC.pdf"
+    },
+    {
       "name": "README.md",
       "path": "documents/শ্রম বিধিমালার সকল ফর্ম/README.md",
       "type": "file",
